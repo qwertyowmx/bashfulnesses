@@ -1,3 +1,4 @@
+#!/bin/bash
 echo "Bash: $BASH"
 echo "Bash version: $BASH_VERSION"
 echo "Host name: $HOSTNAME"

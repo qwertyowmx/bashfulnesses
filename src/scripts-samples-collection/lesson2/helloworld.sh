@@ -1,3 +1,4 @@
+#!/bin/bash
 echo "Hello world"
 name="qwertyowrmx"
 echo "Hello, $name" # Can use interpolation
